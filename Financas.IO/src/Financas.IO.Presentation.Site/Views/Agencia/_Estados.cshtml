@@ -1,0 +1,8 @@
+﻿@using Financas.IO.Aplication.ViewModels.CadastrosBasico.Agencias
+@model AgenciaViewModel
+
+@{
+    var estados = (IEnumerable<SelectListItem>)new EnderecoViewModel().Estados();
+}
+
+<select asp-for="Endereco.Cidade.UF" asp-items="@estados" class="form-control"></select>

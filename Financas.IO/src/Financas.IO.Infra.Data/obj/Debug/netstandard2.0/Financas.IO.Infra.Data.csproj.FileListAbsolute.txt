@@ -1,0 +1,15 @@
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Infra.Data.deps.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Infra.Data.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Infra.Data.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Domain.Core.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Domain.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Domain.Core.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\bin\Debug\netstandard2.0\Financas.IO.Domain.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.csprojAssemblyReference.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.AssemblyInfo.cs
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.csproj.CopyComplete
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.Data\obj\Debug\netstandard2.0\Financas.IO.Infra.Data.pdb

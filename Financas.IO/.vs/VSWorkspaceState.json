@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\sql",
+    "\\src",
+    "\\src\\Financas.IO.Presentation.Site",
+    "\\src\\Financas.IO.Presentation.Site\\Areas\\Identity",
+    "\\src\\Financas.IO.Presentation.Site\\Areas\\Identity\\Pages",
+    "\\src\\Financas.IO.Presentation.Site\\bin\\Debug\\netcoreapp2.1",
+    "\\tests"
+  ],
+  "SelectedNode": "\\src\\Financas.IO.Domain.Core",
+  "PreviewInSolutionExplorer": false
+}

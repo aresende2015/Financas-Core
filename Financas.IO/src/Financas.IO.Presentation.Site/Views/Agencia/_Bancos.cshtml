@@ -1,0 +1,9 @@
+﻿@using Financas.IO.Aplication.ViewModels.CadastrosBasico.Agencias
+@*@using Financas.IO.Aplication.ViewModels.CadastrosBasico.Bancos*@
+@model AgenciaViewModel
+
+@*@{
+    var bancos = (IEnumerable<SelectListItem>)new BancoViewModel().Bancos();
+}*@
+
+<select asp-for="BancoId" asp-items="@ViewBag.BancoId" class="form-control"></select>

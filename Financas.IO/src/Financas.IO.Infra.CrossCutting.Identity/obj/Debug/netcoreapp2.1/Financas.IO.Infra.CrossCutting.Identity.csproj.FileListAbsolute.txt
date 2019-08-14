@@ -1,0 +1,17 @@
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.deps.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.runtimeconfig.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.runtimeconfig.dev.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Domain.Core.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Domain.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Domain.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\Financas.IO.Domain.Core.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\Financas.IO.Infra.CrossCutting.Identity.pdb

@@ -1,0 +1,59 @@
+﻿@model Financas.IO.Aplication.ViewModels.CadastrosBasico.Agencias.AgenciaViewModel
+
+<table class="table table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Logradouro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Numero)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Complemento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Bairro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.CEP)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Cidade.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Cidade.UF)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Endereco.Ativo)
+        </th>
+        <th></th>
+    </tr>
+
+    <tr>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Logradouro)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Numero)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Complemento)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Bairro)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.CEP)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Cidade.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Cidade.UF)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Endereco.Ativo)
+        </td>
+    </tr>
+
+</table>

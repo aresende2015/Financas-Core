@@ -1,0 +1,12 @@
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\bin\Debug\netcoreapp2.1\Financas.IO.Domain.deps.json
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\bin\Debug\netcoreapp2.1\Financas.IO.Domain.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\bin\Debug\netcoreapp2.1\Financas.IO.Domain.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\bin\Debug\netcoreapp2.1\Financas.IO.Domain.Core.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\bin\Debug\netcoreapp2.1\Financas.IO.Domain.Core.pdb
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.csprojAssemblyReference.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.AssemblyInfoInputs.cache
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.AssemblyInfo.cs
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.csproj.CopyComplete
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.dll
+C:\Users\alexq\source\repos\Financas.IO\src\Financas.IO.Domain\obj\Debug\netcoreapp2.1\Financas.IO.Domain.pdb

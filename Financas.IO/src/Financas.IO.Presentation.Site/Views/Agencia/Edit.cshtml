@@ -1,0 +1,94 @@
+﻿@using Financas.IO.Aplication.ViewModels.CadastrosBasico.Agencias
+@model AgenciaViewModel
+
+@{
+    ViewData["Title"] = "Editar Agência";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit">
+    <div class="form-horizontal">
+        <h4>Preencha todos os dados corretamente</h4>
+        <hr />
+
+        <vc:summary />
+
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="BancoId" />
+
+        <div class="form-group">
+            <label asp-for="Banco" class="col-md-2 control-label"></label>
+            <div class="col-md-6">
+                @Html.Partial("_Bancos")
+                <span asp-validation-for="Banco" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NumeroDaAgencia" class="col-md-2 control-label"></label>
+            <div class="col-md-6">
+                <input asp-for="NumeroDaAgencia" class="form-control" />
+                <span asp-validation-for="NumeroDaAgencia" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NomeDaAgencia" class="col-md-2 control-label"></label>
+            <div class="col-md-6">
+                <input asp-for="NomeDaAgencia" class="form-control" />
+                <span asp-validation-for="NomeDaAgencia" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" id="btSubmit" value="Atualizar Agência" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar para a lista</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+
+<div id="EnderecoForm">
+    <div id="EnderecoTarget">
+        @Html.Partial("_DetalhesEndereco")
+    </div>
+</div>
+
+<div id="myModal" class="modal fade in">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id="myModalContent"></div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        ValidarNotification();
+        AjaxAutoComplete();
+        AjaxModal();
+    </script>
+
+    @{
+        if (ViewBag.RetornoPost != null)
+        {
+            var notificacao = ViewBag.RetornoPost.ToString().Split(',');
+
+            <script>
+                toastr["@notificacao[0]"]("@notificacao[1]");
+            </script>
+
+            if (@notificacao[0] == "success")
+            {
+                <script>
+                    $("#btSubmit").prop("disabled", true);
+                </script>
+            }
+        }
+    }
+}
