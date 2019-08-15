@@ -5248,11 +5248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj",
+      "projectUniqueName": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj",
       "projectName": "Financas.IO.Aplication",
-      "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj",
+      "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj",
       "packagesPath": "C:\\Users\\alexq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Aplication\\obj\\",
+      "outputPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Aplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5271,11 +5271,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj"
             },
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj"
             }
           }
         }

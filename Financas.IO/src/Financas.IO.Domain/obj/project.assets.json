@@ -841,11 +841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj",
       "projectName": "Financas.IO.Domain",
-      "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj",
+      "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain\\Financas.IO.Domain.csproj",
       "packagesPath": "C:\\Users\\alexq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain\\obj\\",
+      "outputPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -864,8 +864,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj"
             }
           }
         }

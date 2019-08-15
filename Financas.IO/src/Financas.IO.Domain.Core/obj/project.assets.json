@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj",
       "projectName": "Financas.IO.Domain.Core",
-      "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj",
+      "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\alexq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\obj\\",
+      "outputPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj",
+      "projectUniqueName": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj",
       "projectName": "Financas.IO.Infra.CrossCutting.Bus",
-      "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj",
+      "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj",
       "packagesPath": "C:\\Users\\alexq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\obj\\",
+      "outputPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1037,8 +1037,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Domain.Core\\Financas.IO.Domain.Core.csproj"
             }
           }
         }

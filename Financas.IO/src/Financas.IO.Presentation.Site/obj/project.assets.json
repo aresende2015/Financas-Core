@@ -15363,11 +15363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Presentation.Site\\Financas.IO.Presentation.Site.csproj",
+      "projectUniqueName": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Presentation.Site\\Financas.IO.Presentation.Site.csproj",
       "projectName": "Financas.IO.Presentation.Site",
-      "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Presentation.Site\\Financas.IO.Presentation.Site.csproj",
+      "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Presentation.Site\\Financas.IO.Presentation.Site.csproj",
       "packagesPath": "C:\\Users\\alexq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Presentation.Site\\obj\\",
+      "outputPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Presentation.Site\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15386,20 +15386,20 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Aplication\\Financas.IO.Aplication.csproj"
             },
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Bus\\Financas.IO.Infra.CrossCutting.Bus.csproj"
             },
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Identity\\Financas.IO.Infra.CrossCutting.Identity.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Identity\\Financas.IO.Infra.CrossCutting.Identity.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Identity\\Financas.IO.Infra.CrossCutting.Identity.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.Identity\\Financas.IO.Infra.CrossCutting.Identity.csproj"
             },
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.IoC\\Financas.IO.Infra.CrossCutting.IoC.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.IoC\\Financas.IO.Infra.CrossCutting.IoC.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.IoC\\Financas.IO.Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.CrossCutting.IoC\\Financas.IO.Infra.CrossCutting.IoC.csproj"
             },
-            "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.Data2\\Financas.IO.Infra.Data2.csproj": {
-              "projectPath": "C:\\Users\\alexq\\source\\repos\\Financas.IO\\src\\Financas.IO.Infra.Data2\\Financas.IO.Infra.Data2.csproj"
+            "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.Data2\\Financas.IO.Infra.Data2.csproj": {
+              "projectPath": "C:\\Users\\alexq\\Desktop\\Git\\Financas.IO\\src\\Financas.IO.Infra.Data2\\Financas.IO.Infra.Data2.csproj"
             }
           }
         }
